@@ -12,7 +12,7 @@ Meu foco é desenvolver soluções inteligentes que dão vida a hardwares, **int
 
 ---
 
-### 🛠️ Stack Tecnológica & Ferramentas
+### Stack Tecnológica & Ferramentas
 
 **Inteligência Artificial & Data Science:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
